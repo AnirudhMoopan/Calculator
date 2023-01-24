@@ -3,7 +3,7 @@
     height: 650px;
     background: black;
     border-radius: 20px;
-    margin-left: 300px;
+    margin-left: 560px;
     margin-top: 30px;
 }
 #screen{
@@ -53,4 +53,8 @@
     border-radius: 50px;
     background: gray;
     font-size: 25px;
+}
+.notepad{
+    width: 500px;
+    height: 500px;
 }
