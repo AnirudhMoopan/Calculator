@@ -6,11 +6,17 @@
     margin-left: 300px;
     margin-top: 30px;
 }
-.screen{
+#screen{
     height: 150px;
-    width: 393px;
+    width: 350px;
     margin-top: 25px;
     margin-bottom: 43px;
+    margin-left: 20px;
+    direction: rtl;
+    font-size: 40px;
+    color: #fff;
+    background: black;
+    border-color: black;
 }
 .row{
     margin-left: 35px;
@@ -21,5 +27,30 @@
     height: 65px;
     margin-left: 11px;
     border-radius: 50px;
+    font-size: 25px;
 
+}
+.btn0{
+    width: 145px;
+    height: 65px;
+    margin-left: 11px;
+    border-radius: 50px;
+    font-size: 25px;
+}
+.btn-orange{
+    width: 65px;
+    height: 65px;
+    margin-left: 11px;
+    border-radius: 50px;
+    background: orange;
+    font-size: 25px;
+
+}
+.btn-grey{
+    width: 65px;
+    height: 65px;
+    margin-left: 11px;
+    border-radius: 50px;
+    background: gray;
+    font-size: 25px;
 }
