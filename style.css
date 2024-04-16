@@ -28,7 +28,7 @@
   font-size: 25px;
   color: #fff;
   background: black;
-  border-color: black;
+  border: none;
 }
 
 #screen2 {
@@ -40,7 +40,7 @@
   font-size: 40px;
   color: #fff;
   background: black;
-  border-color: black;
+  border: none;
 }
 .row {
   margin-left: 35px;
