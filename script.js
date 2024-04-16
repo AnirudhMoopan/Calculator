@@ -3,6 +3,7 @@ function numberclick(val) {
 }
 function clearscreen() {
   document.getElementById("screen2").value = "";
+  document.getElementById("screen1").value = "";
 }
 function back() {
   var value = document.getElementById("screen2").value;
@@ -10,6 +11,7 @@ function back() {
 }
 function equalclick() {
   var text = document.getElementById("screen2").value;
+  document.getElementById("screen1").value = text;
   var result = eval(text);
   document.getElementById("screen2").value = result;
 }

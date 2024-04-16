@@ -20,6 +20,10 @@
   background: black;
   border-radius: 20px;
 }
+.output-box {
+  background-color: #1c1c1cfc;
+  border-radius: 20px;
+}
 #screen1 {
   height: 50px;
   width: 350px;
@@ -27,7 +31,7 @@
   margin-left: 20px;
   font-size: 25px;
   color: #fff;
-  background: black;
+  background: #1c1c1cfc;
   border: none;
 }
 
@@ -39,7 +43,7 @@
   direction: rtl;
   font-size: 40px;
   color: #fff;
-  background: black;
+  background: #1c1c1cfc;
   border: none;
 }
 .row {
